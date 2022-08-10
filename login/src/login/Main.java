@@ -25,7 +25,7 @@ public class Main {
 		System.out.println();
 		sc.nextLine();
 		if (menu == 1) {
-			System.out.println("아이디를 입력해 주세요");
+			System.out.println("아이디를 입력해 주세요!");
 			id =sc.nextLine();
 			String trim =id.trim();
 			System.out.println("비밀번호를 입력해 주세요 ");
