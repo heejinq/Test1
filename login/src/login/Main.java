@@ -20,7 +20,7 @@ public class Main {
 		
 		for(;;) { //루~프
 		
-		System.out.println("로그인을 하려면 '1'을 회원가입을 하려면 '2'를 "+ "회원삭제를 하려면 '3'을 눌러주세요" );
+		System.out.println("로그인을 하려면 '1'을 회원가입을 하려면 '2'를 "+ "회원삭제를 하려면 '3'을 눌러주세요!" );
 		int menu =sc.nextInt();
 		System.out.println();
 		sc.nextLine();
